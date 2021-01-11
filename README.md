@@ -17,8 +17,7 @@ pyautogui
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install keyboard and pyautogui.
 
 ```bash
-pip install keyboard
-pip install pyautogui
+pip install keyboard pyautogui
 ```
 
 ## Contributing
