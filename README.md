@@ -25,4 +25,4 @@ pip install pyautogui
 Pull requests are welcome. Maybe we can make it GUI, ha?
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/DreamFireworks/Python-Auto-Clicker/blob/main/LICENSE)
