@@ -3,7 +3,7 @@
 
 I made it for Clicker Heroes game
 
-### It starts clicking if you press the "F7" key and stops if you press "F8" key. 
+### It starts clicking if you press the "F7" key and stops when you press "F8" key. 
 And if you want to quit, pressing "Esc" works.
 
 ## Packages I used:
